@@ -34,3 +34,9 @@ a {
 .colorred {
   color:#ff0000;
 }
+#list {
+  width: auto;
+  margin-top: auto;
+  margin-left: auto;
+  color: #2F00FF
+}
